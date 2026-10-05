@@ -13,7 +13,7 @@ Claude uses the calculator's tools for every numeric conclusion instead of doing
 
 ## How to use it
 
-Add the plugin, then connect its **App Growth Calculator** connector from the plugin's Connectors tab on claude.ai or in Cowork. No account or sign-in is needed. Claude Code connects to it directly. Then ask, for example:
+Add the plugin, then open its Connectors tab on claude.ai or in Cowork and connect `app-growth-calculator`. No account or sign-in is needed. Claude Code connects to it directly. Then ask, for example:
 
 - "We pay $3 per install and 5% become paying subscribers. What else do you need to test payback?"
 - "Can my subscription app fund the wait for paid acquisition to pay back?"

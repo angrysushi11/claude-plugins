@@ -14,7 +14,7 @@ Major findings carry stable review IDs and short verbatim quotes, and every evid
 
 ## How to use it
 
-Add the plugin, then connect its **Review Intel** connector from the plugin's Connectors tab on claude.ai or in Cowork. No account, API key or sign-in is needed. Claude Code connects to it directly. Then ask, for example:
+Add the plugin, then open its Connectors tab on claude.ai or in Cowork and connect `review-intelligence`, the Review Intel server. No account, API key or sign-in is needed. Claude Code connects to it directly. Then ask, for example:
 
 - "Retrieve reviews from this App Store or Google Play URL and show me the first useful read."
 - "Analyze this review export and find the strongest product, pricing, and ASO gaps."
