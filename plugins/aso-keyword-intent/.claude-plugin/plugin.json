@@ -1,0 +1,24 @@
+{
+  "name": "aso-keyword-intent",
+  "displayName": "ASO Keyword Intent",
+  "version": "0.1.1",
+  "description": "Classify raw keyword phrases for App Store metadata or SEO content planning without rewriting the original queries.",
+  "author": {
+    "name": "DoubleDash"
+  },
+  "repository": "https://github.com/angrysushi11/claude-plugins",
+  "keywords": [
+    "ASO",
+    "App Store",
+    "keyword research",
+    "SEO",
+    "mobile apps"
+  ],
+  "metadata": {
+    "links": {
+      "privacyPolicy": "https://www.willthiseverwork.com/plugins/privacy/",
+      "support": "https://www.willthiseverwork.com/plugins/privacy/#support"
+    }
+  },
+  "license": "Apache-2.0"
+}

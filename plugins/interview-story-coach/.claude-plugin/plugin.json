@@ -1,0 +1,23 @@
+{
+  "name": "interview-story-coach",
+  "displayName": "Job Interview Story Coach",
+  "version": "0.1.2",
+  "description": "Build truthful interview stories from a job description and practise role-specific interviews.",
+  "author": {
+    "name": "DoubleDash"
+  },
+  "repository": "https://github.com/angrysushi11/claude-plugins",
+  "keywords": [
+    "interview preparation",
+    "behavioral interviews",
+    "career coaching",
+    "story building"
+  ],
+  "metadata": {
+    "links": {
+      "privacyPolicy": "https://www.willthiseverwork.com/plugins/privacy/",
+      "support": "https://www.willthiseverwork.com/plugins/privacy/#support"
+    }
+  },
+  "license": "Apache-2.0"
+}

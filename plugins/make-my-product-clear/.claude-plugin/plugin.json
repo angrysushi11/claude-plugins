@@ -1,0 +1,25 @@
+{
+  "name": "make-my-product-clear",
+  "displayName": "Make My Product Clear",
+  "version": "0.1.2",
+  "description": "Rewrite existing product pages, app listings, and product descriptions so customers see why the product matters and what to do next.",
+  "author": {
+    "name": "Dasha Antonova",
+    "url": "https://www.doubledash.me/?utm_source=claude_plugins&utm_medium=directory&utm_campaign=make_my_product_clear&utm_content=author_url"
+  },
+  "repository": "https://github.com/angrysushi11/claude-plugins",
+  "keywords": [
+    "product copy",
+    "product page",
+    "App Store description",
+    "Jobs to Be Done",
+    "conversion copy"
+  ],
+  "metadata": {
+    "links": {
+      "privacyPolicy": "https://www.willthiseverwork.com/plugins/privacy/",
+      "support": "https://www.willthiseverwork.com/plugins/privacy/#support"
+    }
+  },
+  "license": "Apache-2.0"
+}

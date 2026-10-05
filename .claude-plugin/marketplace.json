@@ -1,0 +1,38 @@
+{
+  "name": "doubledash",
+  "owner": {
+    "name": "Dasha Antonova",
+    "url": "https://www.willthiseverwork.com/"
+  },
+  "metadata": {
+    "description": "Claude plugins from Will This Ever Work by Dasha Antonova (DoubleDash).",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "aso-keyword-intent",
+      "source": "./plugins/aso-keyword-intent",
+      "description": "Classify raw keyword phrases for App Store metadata or SEO content planning without rewriting the original queries."
+    },
+    {
+      "name": "interview-story-coach",
+      "source": "./plugins/interview-story-coach",
+      "description": "Build truthful interview stories from a job description and practise role-specific interviews."
+    },
+    {
+      "name": "make-my-product-clear",
+      "source": "./plugins/make-my-product-clear",
+      "description": "Rewrite existing product pages, app listings, and product descriptions so customers see why the product matters and what to do next."
+    },
+    {
+      "name": "app-growth-calculator",
+      "source": "./plugins/app-growth-calculator",
+      "description": "Test whether a subscription app's paid growth pays back, what input must improve, and whether cash can cover the wait."
+    },
+    {
+      "name": "review-intelligence",
+      "source": "./plugins/review-intelligence",
+      "description": "Analyze public app reviews to see what people love, hate, and wish worked differently before deciding what to build, improve, test, or say."
+    }
+  ]
+}
