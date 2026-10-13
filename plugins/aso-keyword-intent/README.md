@@ -1,8 +1,8 @@
-# ASO Keyword Intent
+# ASO Keyword Sorter
 
-![ASO Keyword Intent icon](assets/icon.svg)
+![ASO Keyword Sorter icon](assets/icon.svg)
 
-Classify pasted keyword phrases for App Store metadata or SEO content planning. Preserve each raw phrase, show why it was classified, and keep ambiguous or out-of-scope queries visible. This package does not retrieve keyword volume, rankings, or live store data.
+Sort a raw keyword list into App Store listing candidates, content topics and keywords to drop, with the reason for each. Every keyword comes back exactly as you gave it, and unclear ones stay visible instead of disappearing. It doesn't fetch search volume, rankings or live store data.
 
 ## What it does
 

@@ -1,8 +1,9 @@
 {
   "name": "aso-keyword-intent",
-  "displayName": "ASO Keyword Intent",
-  "version": "0.1.1",
-  "description": "Classify raw keyword phrases for App Store metadata or SEO content planning without rewriting the original queries.",
+  "displayName": "ASO Keyword Sorter",
+  "version": "0.1.2",
+  "description": "Sort a raw keyword list into App Store listing candidates, content topics and keywords to drop, with the reason for each.",
+  "homepage": "https://www.willthiseverwork.com/aso-keyword-planner/?utm_source=claude_plugins&utm_medium=directory&utm_campaign=aso_keyword_intent&utm_content=homepage",
   "author": {
     "name": "DoubleDash"
   },
