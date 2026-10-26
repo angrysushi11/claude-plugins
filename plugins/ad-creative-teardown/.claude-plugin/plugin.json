@@ -1,0 +1,28 @@
+{
+  "name": "ad-creative-teardown",
+  "displayName": "Ad Creative Teardown",
+  "version": "0.1.0",
+  "description": "Find out why competitors' long-running ads work, turn app reviews into ad hooks, and check that your video script fits its seconds.",
+  "author": {
+    "name": "Dasha Antonova",
+    "url": "https://www.willthiseverwork.com/#about"
+  },
+  "homepage": "https://www.willthiseverwork.com/?utm_source=claude_plugins&utm_medium=directory&utm_campaign=ad_creative_teardown&utm_content=homepage",
+  "repository": "https://github.com/angrysushi11/claude-plugins",
+  "keywords": [
+    "ad creative",
+    "UGC",
+    "Meta ads",
+    "TikTok ads",
+    "creative strategy",
+    "hooks",
+    "video scripts"
+  ],
+  "metadata": {
+    "links": {
+      "privacyPolicy": "https://www.willthiseverwork.com/plugins/privacy/",
+      "support": "https://www.willthiseverwork.com/plugins/privacy/#support"
+    }
+  },
+  "license": "Apache-2.0"
+}

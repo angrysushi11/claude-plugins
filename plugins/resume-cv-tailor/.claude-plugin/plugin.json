@@ -1,0 +1,26 @@
+{
+  "name": "resume-cv-tailor",
+  "displayName": "Resume & CV Tailor",
+  "version": "0.1.0",
+  "description": "Tailor your resume or CV to a job description, leading with results you can back up, in ATS-safe formatting, with a short list of the gaps still to fill.",
+  "author": {
+    "name": "Dasha Antonova",
+    "url": "https://www.willthiseverwork.com/#about"
+  },
+  "homepage": "https://www.willthiseverwork.com/?utm_source=claude_plugins&utm_medium=directory&utm_campaign=resume_cv_tailor&utm_content=homepage",
+  "repository": "https://github.com/angrysushi11/claude-plugins",
+  "keywords": [
+    "resume",
+    "CV",
+    "job search",
+    "ATS",
+    "cover letter"
+  ],
+  "metadata": {
+    "links": {
+      "privacyPolicy": "https://www.willthiseverwork.com/plugins/privacy/",
+      "support": "https://www.willthiseverwork.com/plugins/privacy/#support"
+    }
+  },
+  "license": "Apache-2.0"
+}
