@@ -1,0 +1,27 @@
+{
+  "name": "will-my-app-work",
+  "displayName": "Will My App Work?",
+  "version": "0.1.0",
+  "description": "Check an app idea before you build it: a short interview, the competitors and their traction, category benchmarks, and what has to be true for it to work.",
+  "author": {
+    "name": "Dasha Antonova",
+    "url": "https://www.willthiseverwork.com/#about"
+  },
+  "homepage": "https://www.willthiseverwork.com/?utm_source=claude_plugins&utm_medium=directory&utm_campaign=will_my_app_work&utm_content=homepage",
+  "repository": "https://github.com/angrysushi11/claude-plugins",
+  "license": "Apache-2.0",
+  "keywords": [
+    "app idea validation",
+    "market research",
+    "competitor analysis",
+    "startup",
+    "mobile apps",
+    "subscription apps"
+  ],
+  "metadata": {
+    "links": {
+      "privacyPolicy": "https://www.willthiseverwork.com/plugins/privacy/",
+      "support": "https://www.willthiseverwork.com/plugins/privacy/#support"
+    }
+  }
+}
