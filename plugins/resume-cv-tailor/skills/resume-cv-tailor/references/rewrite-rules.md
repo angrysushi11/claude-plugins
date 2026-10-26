@@ -6,6 +6,7 @@ One claim per bullet: what the user did, how, and the result or scope.
 
 - Start with a specific verb for what the user actually did: built, wrote, negotiated, cut, hired, analysed, launched, ran.
 - Put the result where a skim will catch it, with its baseline when the user has one: "from 22% to 27%" says more than "by 5 points".
+- When the result is the user's own, it can open the bullet: "Cut month-end close from 9 days to 5 by automating the bank reconciliations." When it belongs to a team, open with the user's action and give the result as context.
 - Keep the scope that makes a claim checkable: the market, the period, the team size, the budget. These are boundaries, not hedges.
 - Recent, relevant roles get the most bullets. Old or unrelated roles get one line.
 
@@ -27,6 +28,7 @@ Confidence comes from precision. It never comes from upgrading ownership: "helpe
 - Honest rounding keeps at least two significant figures and goes to the nearest value: 1.27M becomes 1.3M, and 31.4% becomes 31%. A true bound is also fine: 23% becomes "over 20%", and 1.9x becomes "nearly doubled", never "doubled".
 - Rounding to a bigger, rounder number is not honest rounding: 23% does not become 25%, $480K does not become $500K, and 3.6x does not become 4x.
 - An approximate figure the user hasn't confirmed keeps its marker: `40% [CONFIRM: exact figure]`.
+- If the user only knows a figure roughly, use a bound they're sure of ("over 35%"), or describe the change without a number. An estimate never appears as an exact figure.
 - Don't derive a new metric from the user's figures, such as a percentage from two counts, unless the user agrees with the calculation. Mark it until then.
 
 ## Ownership and context
@@ -50,7 +52,7 @@ Shorten an older role to title, employer, dates and one line instead of deleting
 - Order: contact details, optional headline, summary, experience, education, skills. Add certifications, projects or languages when the job asks for them.
 - Roles stay in reverse chronological order. Reorder the bullets within a role, not the roles.
 - Summary: two or three sentences on the user's field, level and the scope of their work, aimed at this job. Exact results belong in the bullets.
-- With long experience, an optional Selected results section after the summary can hold the two to four results this job cares about most. Don't repeat them word for word under Experience.
+- With several years of experience, an optional Selected results section after the summary can hold the two to four results this job cares about most. Don't repeat them word for word under Experience.
 - Skills: an index of what the user has, grouped by type. Not a copy of the posting's requirement list.
 - Fit the length by cutting, never by shrinking type or margins. One page is usual early in a career and two with longer experience, unless the user, the posting or local practice says otherwise.
 - Write in the posting's language and spelling, US or UK, unless the user prefers otherwise.

@@ -72,7 +72,7 @@ When they answer, replace the markers. A final version has none.
 ## Final check
 
 - The headline and opening promise what the body delivers.
-- Every paragraph passes "So what?" and "Could anyone else have written this?"
+- Every paragraph passes "So what?" and "Could anyone else have written this?", short necessary context aside.
 - No invented scene, quote, emotion, decision, result or number.
 - Numbers keep their definition, baseline and period. Team results stay team results.
 - Other people's names and confidential details appear only where the user cleared them.
@@ -87,3 +87,7 @@ The user's answer: "We had a weekly status meeting, nine people, an hour. I aske
 Draft paragraph: "For a month, the nine of us swapped the Monday status hour for three written lines each, due by noon. Two people disliked it at first. By the end of the month, we cancelled the meeting. Whether it saved time overall, I can't say: writing the updates took time too."
 
 Not allowed: "Cutting the meeting saved our team nine hours a week and transformed our culture." The user never measured time saved, and never said anything about culture.
+
+## Source basis
+
+The `[TK]` markers with a fallback, the note on what came from the author, and the "Could anyone else have written this?" test are adapted from [Clarity](https://github.com/addyosmani/clarity) by Addy Osmani (MIT License). The wording here is original.

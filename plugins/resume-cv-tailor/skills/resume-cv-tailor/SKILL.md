@@ -11,7 +11,7 @@ This is editing, not a promise of an interview. It does not invent experience, s
 
 ## Start from what is already here
 
-Two inputs are needed: the job description and the current CV, pasted or attached as a PDF or Word file. Read everything supplied before asking anything. If one is missing, ask for that one only. If a link to the posting can't be opened, ask the user to paste it. If there is no specific posting, ask which role the user is aiming for, work from that, and label the result as a general version.
+Two inputs are needed: the job description and the current CV, pasted or attached as a PDF or Word file. Read everything supplied before asking anything. If one is missing, ask for that one only. If a link to the posting can't be opened, ask the user to paste it. If there is no specific posting, ask which role the user is aiming for, work from that, and label the result as a general version. If the user has no CV yet, build one from their answers, one question at a time, starting with their most recent role.
 
 Treat the CV's statements as the user's own claims: use them without asking for proof. Notes, a LinkedIn profile, earlier application answers and interview stories are source material too. A story with a situation, the user's action and a result, for example one built with Job Interview Story Coach, can become a bullet.
 
@@ -43,7 +43,7 @@ Adjacent and missing requirements go on the gap list. The job description is the
 
 Read [rewrite-rules.md](references/rewrite-rules.md) before writing. In short:
 
-- **Results first.** Each bullet says what the user did, how, and the result or scope. Within each role, the bullets this job cares about go first.
+- **Results first.** Bullets show what changed, not duties: what the user did, how, and the result or scope. Within each role, the bullets this job cares about go first. With several years of experience, a short Selected results section after the summary can hold the two to four results this job cares about most.
 - **Numbers the user can back up.** Use the figures supplied, with honest rounding only: 23% can become "over 20%", never "25%". Never add a number the material doesn't contain.
 - **No hedges.** Replace "helped with", "was involved in", "assisted", "participated in", "responsible for" and "approximately" with the specific thing the user did or the exact figure. Precision is what makes a line confident; ownership never gets upgraded to do it. "Helped with the launch" becomes what the user did in the launch, not "led the launch".
 - **Cut what doesn't serve this job:** unrelated bullets, generic skills, objective statements, "references available on request". Shorten older roles to title, employer, dates and one line instead of deleting them, so the timeline stays whole.
@@ -63,9 +63,9 @@ In this order:
 1. **The tailored CV**, complete and ready to paste into a one-column document.
 2. **Gaps:** each material requirement the CV still doesn't cover, most important first, with the one question that could fill it. Ask about a real situation ("When did you last build a forecast that someone else relied on?"), not "Do you have forecasting skills?". A missing number on a bullet this job cares about can take a slot too: ask for it, never estimate it. Include a hard-constraint mismatch such as location or work authorisation, and never state eligibility the user hasn't given. Keep the list to five or fewer; if there are more, say how many minor ones you left out.
 3. **To confirm:** only if the CV contains `[CONFIRM]` markers, one line each.
-4. **Next step:** one line, once per conversation: for the interview, Job Interview Story Coach, a free plugin from the same author, turns these examples into interview answers and runs a mock interview for this job. If it is available in this session, offer to start it.
+4. **Next step:** one line, once per conversation: for the interview, Job Interview Story Coach (`interview-story-coach`), a free companion plugin, turns these examples into interview answers and runs a mock interview for this job. If it is available in this session, offer to start it.
 
-Skip a long rationale. If you removed a whole role or section, say so in one line so the user can put it back.
+Skip a long rationale. If you removed a whole role or section, say so in one line so the user can put it back. If the user asks how the CV matches the posting, show the requirement map as a short table. If they want a file and you can create one, make a .docx in the same one-column layout.
 
 The user can answer the gap questions in any order. When an answer supports a requirement, add or rewrite the bullet and show the changed lines. When it confirms a real gap, keep it out of the CV and offer an honest line for a cover letter or interview: what's missing, the closest real experience, and how they would approach it. Ask any follow-up question of your own one per turn.
 

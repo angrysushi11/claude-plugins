@@ -2,7 +2,7 @@
   "name": "article-interview",
   "displayName": "Article Interview",
   "version": "0.1.0",
-  "description": "Turn your experience into an article or blog post: get interviewed one question at a time, pick from two or three angles, and get a draft in your own words with nothing invented.",
+  "description": "Turn your experience into a LinkedIn article or blog post: get interviewed one question at a time, choose from two or three angles, and get a draft in your own words with nothing invented.",
   "author": {
     "name": "Dasha Antonova",
     "url": "https://www.willthiseverwork.com/#about"
@@ -10,10 +10,10 @@
   "homepage": "https://www.willthiseverwork.com/?utm_source=claude_plugins&utm_medium=directory&utm_campaign=article_interview&utm_content=homepage",
   "repository": "https://github.com/angrysushi11/claude-plugins",
   "keywords": [
-    "writing",
-    "article",
+    "article writing",
     "blog post",
-    "LinkedIn",
+    "LinkedIn article",
+    "content ideas",
     "interview"
   ],
   "metadata": {

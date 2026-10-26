@@ -9,10 +9,10 @@ Tailor your resume or CV to one job. Paste the job description and your CV, and 
 ## What it does
 
 - Matches every requirement in the posting to a line in your CV, or lists it as a gap
-- Leads each bullet with the result, using only numbers you can back up, so they hold up when an interviewer asks
-- Replaces "helped with", "was involved in" and "approximately" with what you actually did and the exact figure
+- Puts the results this job cares about first, using only numbers you can back up, so they hold up when an interviewer asks
+- Replaces "helped with", "was involved in" and "approximately" with what you actually did and the exact figure, so each line shows your part
 - Cuts what this job doesn't need, so the relevant lines aren't buried
-- Keeps the layout one column with standard headings and no tables or graphics, which applicant tracking systems (ATS) read cleanly
+- Keeps the layout ATS-safe: one column, standard headings, and no tables or graphics for applicant tracking software to scramble
 - Writes a cover letter or application answers on request, from the same facts
 
 Numbers are rounded honestly or not at all: 23% can become "over 20%", never 25%. Anything not yet confirmed is marked `[CONFIRM]` in the draft instead of being guessed.
@@ -27,7 +27,7 @@ Stories you build in [Job Interview Story Coach](https://github.com/angrysushi11
 
 ## What it won't do
 
-It won't invent experience, employers, titles, dates or numbers, round a figure up, or claim a skill your CV doesn't show. It doesn't research employers, submit applications or contact anyone. It can't promise an interview or a pass through any particular ATS.
+It won't invent experience, employers, titles, dates or numbers, round a figure up, or add a skill you can't back up. It doesn't research employers, submit applications or contact anyone. It can't promise an interview or a pass through any particular ATS.
 
 ## Data and privacy
 
