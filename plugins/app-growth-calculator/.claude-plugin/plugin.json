@@ -1,7 +1,7 @@
 {
   "name": "app-growth-calculator",
   "displayName": "App Growth Calculator",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Test whether a subscription app's paid growth pays back, what input must improve, and whether cash can cover the wait.",
   "author": {
     "name": "Dasha Antonova",
